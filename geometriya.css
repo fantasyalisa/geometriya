@@ -1,4 +1,4 @@
-float:ribody{
+body{
 margin:0;
 background-color:#FBD9F3;
 }
@@ -55,10 +55,3 @@ float:right;
 display:block;
 background-color:#DAC3EF;
 }
-<!DOCTYPE html>
-<html>
-<head>
-<title>!DOCTYPE</title>
-<meta charset="utf-8">
-<link rel="stylesheet" href="geometriya.css" type="text/css"/>
-</head>
