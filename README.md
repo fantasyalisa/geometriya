@@ -1,1 +1,1 @@
-# geometriya
+# Pythagoras
